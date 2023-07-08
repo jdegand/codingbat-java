@@ -12,3 +12,4 @@ My solutions to Coding Bat Java Problems.
 - [Stack Overflow](https://stackoverflow.com/questions/44065154/java-break-statement-sometimes-not-work-why) - java break statement not working
 - [Stack Overflow](https://stackoverflow.com/questions/9576557/most-efficient-way-to-find-smallest-of-3-numbers-java) - most efficient way to find smallest of 3 numbers
 - [Baeldung](https://www.baeldung.com/java-count-chars) - java count chars
+- [Stack Overflow](https://stackoverflow.com/questions/13386107/how-to-remove-single-character-from-a-string-by-index) - how to remove single character from a string by index

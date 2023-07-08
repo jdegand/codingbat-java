@@ -1,5 +1,3 @@
-// https://stackoverflow.com/questions/13386107/how-to-remove-single-character-from-a-string-by-index
-
 public String zipZap(String str) {
   
   String result = "";
