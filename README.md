@@ -13,3 +13,7 @@ My solutions to Coding Bat Java Problems.
 - [Stack Overflow](https://stackoverflow.com/questions/9576557/most-efficient-way-to-find-smallest-of-3-numbers-java) - most efficient way to find smallest of 3 numbers
 - [Baeldung](https://www.baeldung.com/java-count-chars) - java count chars
 - [Stack Overflow](https://stackoverflow.com/questions/13386107/how-to-remove-single-character-from-a-string-by-index) - how to remove single character from a string by index
+- [C Sharp Corner](https://www.c-sharpcorner.com/article/how-can-i-get-last-characters-of-a-string-in-java/#:~:text=If%20we%20want%20to%20get,charAt(11)%22) - get last characters of a string
+- [Baeldung](https://www.baeldung.com/java-string-split-multiple-delimiters) - split string with multiple delimiters
+- [Stack Overflow](https://stackoverflow.com/questions/4982210/find-the-max-of-3-numbers-in-java-with-different-data-types) - find the max of 3 in java with different data types
+- [Stack Overflow](https://stackoverflow.com/questions/17235719/determining-if-a-list-numbers-are-sequential) - determining if a list numbers are sequential
