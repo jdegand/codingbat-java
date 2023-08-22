@@ -1,6 +1,19 @@
 # CodingBat Java Solutions
 
-My solutions to Coding Bat Java Problems.  
+My solutions to Coding Bat Java Problems. 
+
+## Thoughts
+
+- Recommended order to tackle problems - start with Map & Functional (Mostly self-contained with little relevance to other problems),Logic 1, String 1, Logic 2, Array 1, Warmup 1 and 2, String 2, AP-1, Recursion 1, Recursion 2, String 3, Array 2, and Array 3.
+- The string-1 section relies heavily on the substring method. 
+- I had most difficulty with array 3.
+- I tackled AP-1 problems too late - AP-1 helps understanding some Array 2 & 3 problems easier.
+- I wasn't going to bother with the warmup problems (since they give you solutions) but they actually help you solve some of the more difficult problems in the higher categories.  
+- Poor descriptions of problems in some places.
+- Actually, there is decent variety in solutions to these problems out there. 
+- A lot of my solutions were approaches that first came to mind.
+- I did a lot of problems back to back at one time.  I slowed down for the more difficulty categories and did a fair amount of research to help solve some problems.   
+- I didn't bother making classes and having proper formatted java code. 
 
 ## Useful Resources
 
@@ -17,3 +30,13 @@ My solutions to Coding Bat Java Problems.
 - [Baeldung](https://www.baeldung.com/java-string-split-multiple-delimiters) - split string with multiple delimiters
 - [Stack Overflow](https://stackoverflow.com/questions/4982210/find-the-max-of-3-numbers-in-java-with-different-data-types) - find the max of 3 in java with different data types
 - [Stack Overflow](https://stackoverflow.com/questions/17235719/determining-if-a-list-numbers-are-sequential) - determining if a list numbers are sequential
+- [YouTube](https://www.youtube.com/watch?v=ir_acNo6BSc) - How to Shift Elements in an Array (Java) - Modified CodingBat Question
+- [Geeks for Geeks](https://www.geeksforgeeks.org/split-array-two-equal-sum-subarrays/) - split array 2 equal sum subarrays
+- [Stack Overflow](https://stackoverflow.com/questions/4968323/java-parse-int-value-from-a-char) - java parse int value from a char
+- [Stack Overflow](https://stackoverflow.com/questions/7569335/reverse-a-string-in-java) - reverse a string
+- [Stack Overflow](https://stackoverflow.com/questions/8777982/issue-with-java-regex-b) - issue with java regex b
+- [Stack Overflow](https://stackoverflow.com/questions/29777696/fastest-way-to-sort-an-array-of-objects-in-java) - fastest way to sort an array of objects in java
+- [Tutorials Point](https://www.tutorialspoint.com/How-to-divide-an-array-into-half-in-java) - divide an array in half
+- [Stack Overflow](https://stackoverflow.com/questions/3389264/how-to-get-the-separate-digits-of-an-int-number) - separate digits of an int number
+- [Stack Overflow](https://stackoverflow.com/questions/37569841/getting-the-first-character-of-each-word-in-a-string-array-and-its-frequency) - getting first character of each word in string array and its frequency
+- [Stack Overflow](https://stackoverflow.com/questions/4150233/remove-null-value-from-string-array-in-java) - remove null value from string array
