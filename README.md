@@ -5,14 +5,14 @@ My solutions to Coding Bat Java Problems.
 ## Thoughts
 
 - Recommended order to tackle problems - start with Map & Functional (Mostly self-contained with little relevance to other problems),Logic 1, String 1, Logic 2, Array 1, Warmup 1 and 2, String 2, AP-1, Recursion 1, Recursion 2, String 3, Array 2, and Array 3.
-- The string-1 section relies heavily on the substring method. 
+- The string-1 section relies too heavily on the substring method.
 - I had most difficulty with array 3.
 - I tackled AP-1 problems too late - AP-1 helps understanding some Array 2 & 3 problems easier.
 - I wasn't going to bother with the warmup problems (since they give you solutions) but they actually help you solve some of the more difficult problems in the higher categories.  
-- Poor descriptions of problems in some places.
-- Actually, there is decent variety in solutions to these problems out there. 
 - A lot of my solutions were approaches that first came to mind.
-- I did a lot of problems back to back at one time.  I slowed down for the more difficulty categories and did a fair amount of research to help solve some problems.   
+- I did a lot of problems back to back at one time.  I slowed down for the more difficult categories and did a fair amount of research to help solve some problems.   
+- There are poor directions for some problems. 
+- There is a decent variety of solutions to these problems out there. 
 - I didn't bother making classes and having proper formatted java code. 
 
 ## Useful Resources
